@@ -6,5 +6,8 @@
 }
 body{
     background-color: black;
-    color: #f0ecec;
+    color: #442c2c;
+}
+.project-img{
+    height: 250px !important;
 }
