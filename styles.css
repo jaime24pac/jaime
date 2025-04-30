@@ -5,9 +5,18 @@
     width: 100%;
 }
 body{
-    background-color: black;
-    color: #faf8f8;
+    background-color:rgb(4, 5, 83);
+    color: #140303;
 }
 .project-img{
     height: 250px !important;
 }
+div {
+    background-image: url('patron.png');
+    background-repeat: repeat;        /* o: no-repeat, repeat-x, repeat-y */
+  }
+div {
+    background: linear-gradient(to right, #8838bd, #092d63);
+  }
+  
+  
